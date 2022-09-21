@@ -7,7 +7,8 @@ public class KrakenPrueba : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //csdhvcsjdhvsdjvsdv
+        //kasdasdka
     }
 
     // Update is called once per frame
